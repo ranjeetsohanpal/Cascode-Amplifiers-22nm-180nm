@@ -1,0 +1,24 @@
+Circuit: * C:\Users\Ranjeet Singh\Documents\LTspiceXVII\Project\ReverseRecovery.asc
+
+Limiting rise time of source v2 to 2.5e-07
+Limiting fall time of source v2 to 2.5e-07
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Apr 23 17:20:12 2024
+Total elapsed time: 0.933 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 310973
+traniter = 310968
+tranpoints = 128065
+accept = 120897
+rejected = 7168
+matrix size = 7
+fillins = 0
+solver = Normal
+Avg thread counts: 1.0/1.0/1.0/1.0
+Matrix Compiler1: 196 bytes object code size  0.3/0.2/[0.2]
+Matrix Compiler2: 399 bytes object code size  0.2/0.3/[0.2]
+
