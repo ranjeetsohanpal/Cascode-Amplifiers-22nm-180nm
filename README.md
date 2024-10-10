@@ -2,6 +2,11 @@
 
 This repository contains a project from my Analog Circuits course(2023), which involves the design and simulation of Cascode Amplifiers using LTSpice with 22nm and 180nm technology nodes. The project explores the frequency response and amplifier behavior across these technologies.
 
+## Objective 
+- Calculate the W/L ratios for Cascode Amplifiers for both 180nm and 22nm technologies.
+- Obtain voltage gain of 26dB i.e 20 times the input voltage at the output.
+- Plot the frequency response at the output showing the required gain.
+
 ## Project Files:
 - **LTSpice Simulations**: `.asc`, `.log`, `.raw` files for each technology.
 - **Frequency Response Plots**: PNG images showing the frequency behavior.
