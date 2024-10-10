@@ -1,0 +1,227 @@
+Circuit: * C:\Users\Ranjeet Singh\Documents\LTspiceXVII\Project\180nm.asc
+
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+Gmin = 1.89714e-008
+Gmin = 2.03704e-009
+Gmin = 2.18725e-010
+Gmin = 2.34854e-011
+Gmin = 2.52173e-012
+Gmin = 2.70769e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Semiconductor Device Operating Points:
+                        --- BSIM3 MOSFETS ---
+Name:        m28         m27         m24         m23         m22
+Model:      cmosn       cmosn       cmosn       cmosn       cmosn
+Id:        8.18e-07    8.18e-07    9.42e-06    9.42e-06    9.42e-06
+Vgs:       4.61e-01    4.59e-01    5.63e-01    5.12e-01    5.63e-01
+Vds:       9.64e-02    1.51e+00    4.42e-02    1.18e+00    4.42e-02
+Vbs:       0.00e+00   -9.64e-02    0.00e+00   -4.42e-02    0.00e+00
+Vth:       4.62e-01    4.83e-01    3.66e-01    3.80e-01    3.66e-01
+Vdsat:     5.02e-02    4.61e-02    1.51e-01    1.09e-01    1.51e-01
+Gm:        1.83e-05    1.89e-05    6.45e-05    1.33e-04    6.44e-05
+Gds:       1.20e-06    1.92e-07    1.75e-04    1.50e-09    1.75e-04
+Gmb        5.21e-06    5.17e-06    1.85e-05    3.68e-05    1.85e-05
+Cbd:       0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cbs:       0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cgsov:     1.22e-15    1.58e-15    8.23e-09    8.23e-09    8.23e-09
+Cgdov:     1.22e-15    1.58e-15    8.23e-09    8.23e-09    8.23e-09
+Cgbov:     3.26e-19    3.26e-19    2.00e-12    2.00e-12    2.00e-12
+dQgdVgb:   4.67e-15    5.51e-15    1.65e-01    1.32e-01    1.65e-01
+dQgdVdb:  -1.23e-15   -1.57e-15   -5.51e-02   -5.14e-06   -5.51e-02
+dQgdVsb:  -2.82e-15   -3.00e-15   -1.07e-01   -1.21e-01   -1.07e-01
+dQddVgb:  -1.91e-15   -2.18e-15   -8.03e-02   -5.48e-02   -8.03e-02
+dQddVdb:   1.23e-15    1.58e-15    4.50e-02    4.16e-06    4.50e-02
+dQddVsb:   8.94e-16    7.81e-16    6.04e-02    7.18e-02    6.04e-02
+dQbdVgb:  -8.57e-16   -1.16e-15   -3.93e-03   -2.28e-02   -3.93e-03
+dQbdVdb:  -1.65e-17    6.62e-19   -3.49e-02   -3.16e-06   -3.49e-02
+dQbdVsb:  -1.81e-16   -1.37e-16   -1.34e-02   -2.22e-02   -1.34e-02
+
+Name:        m21         m20         m19         m18         m12
+Model:      cmosn       cmosn       cmosn       cmosn       cmosn
+Id:        9.42e-06   -9.42e-06   -9.42e-06   -9.42e-06    9.42e-06
+Vgs:       5.12e-01    5.19e-01   -7.22e-03    0.00e+00    4.48e-01
+Vds:       1.07e+00   -4.42e-02   -5.19e-01   -5.56e-01    4.48e-01
+Vbs:      -4.42e-02   -4.42e-02   -5.63e-01   -5.56e-01   -5.17e-02
+Vth:       3.80e-01    3.66e-01    3.80e-01    3.66e-01    3.82e-01
+Vdsat:     1.09e-01    1.51e-01    1.09e-01    1.46e-01    7.13e-02
+Gm:        1.33e-04    6.44e-05    1.33e-04    1.00e-04    1.80e-04
+Gds:       2.08e-09    1.75e-04    2.49e-08    2.48e-08    3.21e-08
+Gmb        3.68e-05    1.85e-05    3.68e-05    2.78e-05    5.06e-05
+Cbd:       0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cbs:       0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cgsov:     8.23e-09    8.23e-09    8.23e-09    4.12e-09    2.47e-08
+Cgdov:     8.23e-09    8.23e-09    8.23e-09    4.12e-09    2.47e-08
+Cgbov:     2.00e-12    2.00e-12    2.00e-12    2.00e-12    2.00e-12
+dQgdVgb:   1.32e-01    1.65e-01    1.33e-01    6.74e-02    3.65e-01
+dQgdVdb:  -7.02e-06   -5.51e-02   -7.02e-05   -4.83e-05   -1.42e-04
+dQgdVsb:  -1.21e-01   -1.07e-01   -1.21e-01   -6.23e-02   -3.21e-01
+dQddVgb:  -5.48e-02   -8.03e-02   -5.49e-02   -2.80e-02   -1.45e-01
+dQddVdb:   5.67e-06    4.50e-02    5.67e-05    3.95e-05    1.14e-04
+dQddVsb:   7.18e-02    6.04e-02    7.19e-02    3.69e-02    1.90e-01
+dQbdVgb:  -2.28e-02   -3.93e-03   -2.28e-02   -1.14e-02   -7.46e-02
+dQbdVdb:  -4.32e-06   -3.49e-02   -4.32e-05   -3.06e-05   -8.68e-05
+dQbdVsb:  -2.22e-02   -1.34e-02   -2.23e-02   -1.14e-02   -6.01e-02
+
+Name:        m11         m10         m9          m8          m7
+Model:      cmosn       cmosn       cmosn       cmosn       cmosn
+Id:        9.42e-06   -9.42e-06   -9.42e-06    1.56e-12   -9.42e-06
+Vgs:       4.99e-01   -7.41e-01    0.00e+00    7.69e-03   -7.69e-03
+Vds:       1.24e+00   -1.24e+00   -4.99e-01    7.41e-01   -5.07e-01
+Vbs:       0.00e+00   -1.24e+00   -4.99e-01   -4.99e-01   -5.07e-01
+Vth:       3.66e-01    3.66e-01    3.66e-01    5.07e-01    3.66e-01
+Vdsat:     1.09e-01    1.09e-01    1.09e-01    3.47e-02    1.09e-01
+Gm:        1.33e-04    1.33e-04    1.33e-04    9.17e-12    1.33e-04
+Gds:       1.26e-09    1.26e-09    2.86e-08    1.69e-16    2.70e-08
+Gmb        3.74e-05    3.74e-05    3.73e-05    2.58e-12    3.73e-05
+Cbd:       0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cbs:       0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cgsov:     8.23e-09    8.23e-09    8.23e-09    3.29e-09    8.23e-09
+Cgdov:     8.23e-09    8.23e-09    8.23e-09    3.29e-09    8.23e-09
+Cgbov:     2.00e-12    2.00e-12    2.00e-12    2.00e-12    2.00e-12
+dQgdVgb:   1.33e-01    1.33e-01    1.33e-01    1.58e-02    1.33e-01
+dQgdVdb:  -4.37e-06   -4.38e-06   -7.97e-05   -3.29e-09   -7.58e-05
+dQgdVsb:  -1.22e-01   -1.22e-01   -1.22e-01   -5.69e-07   -1.22e-01
+dQddVgb:  -5.48e-02   -5.48e-02   -5.49e-02   -1.24e-08   -5.49e-02
+dQddVdb:   3.57e-06    3.57e-06    6.51e-05    3.29e-09    6.19e-05
+dQddVsb:   7.22e-02    7.22e-02    7.23e-02    1.19e-08    7.23e-02
+dQbdVgb:  -2.33e-02   -2.33e-02   -2.32e-02   -1.58e-02   -2.32e-02
+dQbdVdb:  -2.76e-06   -2.76e-06   -5.05e-05   -3.56e-13   -4.80e-05
+dQbdVsb:  -2.28e-02   -2.28e-02   -2.29e-02    5.42e-07   -2.29e-02
+
+Name:        m26         m25         m17         m16         m15
+Model:      cmosp       cmosp       cmosp       cmosp       cmosp
+Id:        8.18e-07    8.18e-07   -9.42e-06   -9.42e-06   -9.42e-06
+Vgs:      -5.01e-01   -4.46e-01   -5.78e-01   -5.90e-01   -6.90e-01
+Vds:       5.73e-02    1.32e-01   -9.98e-02   -4.79e-01   -6.90e-01
+Vbs:       1.89e-01    1.32e-01    0.00e+00    9.98e-02    0.00e+00
+Vth:      -4.91e-01   -4.40e-01   -3.91e-01   -4.22e-01   -3.91e-01
+Vdsat:    -8.30e-02   -1.21e-01   -1.51e-01   -1.40e-01   -2.32e-01
+Gm:        1.23e-05    9.78e-06    7.64e-05    1.04e-04    6.02e-05
+Gds:       7.46e-06    1.46e-06    4.80e-05    4.27e-08    1.76e-08
+Gmb        3.52e-06    2.91e-06    2.47e-05    3.15e-05    1.93e-05
+Cbd:       0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cbs:       0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cgsov:     1.03e-15    2.92e-16    1.52e-08    1.52e-08    1.27e-08
+Cgdov:     1.03e-15    2.92e-16    1.52e-08    1.52e-08    1.27e-08
+Cgbov:     3.01e-19    3.01e-19    2.00e-12    2.00e-12    5.00e-12
+dQgdVgb:   5.33e-15    1.58e-15    3.64e-01    3.17e-01    6.68e-01
+dQgdVdb:  -1.25e-15   -3.16e-16   -6.71e-02   -3.51e-04   -5.50e-04
+dQgdVsb:  -3.90e-15   -1.23e-15   -2.96e-01   -3.02e-01   -6.42e-01
+dQddVgb:  -2.38e-15   -6.94e-16   -1.69e-01   -1.34e-01   -2.81e-01
+dQddVdb:   1.27e-15    3.20e-16    5.26e-02    2.71e-04    4.31e-04
+dQddVsb:   1.50e-15    4.98e-16    1.71e-01    1.75e-01    3.72e-01
+dQbdVgb:  -5.73e-16   -1.94e-16   -2.57e-02   -4.94e-02   -1.05e-01
+dQbdVdb:  -2.54e-16   -3.11e-17   -3.80e-02   -1.90e-04   -3.11e-04
+dQbdVsb:  -1.36e-16   -5.73e-17   -4.60e-02   -4.71e-02   -1.01e-01
+
+Name:        m14         m13         m6          m5          m4
+Model:      cmosp       cmosp       cmosp       cmosp       cmosp
+Id:        9.42e-06    9.42e-06   -0.00e+00    9.42e-06    9.42e-06
+Vgs:       6.78e-01    6.85e-01   -5.59e-01    7.41e-01   -8.95e-05
+Vds:       1.24e+00    1.24e+00    0.00e+00    1.30e+00    5.59e-01
+Vbs:       1.24e+00    1.24e+00    0.00e+00    1.30e+00    5.59e-01
+Vth:      -3.91e-01   -3.91e-01   -3.91e-01   -3.91e-01   -3.91e-01
+Vdsat:    -1.38e-01   -1.38e-01   -1.38e-01   -1.38e-01   -1.38e-01
+Gm:        1.05e-04    1.05e-04    0.00e+00    1.05e-04    1.05e-04
+Gds:       1.38e-09    1.35e-09    1.06e-05    1.16e-09    2.28e-08
+Gmb        3.28e-05    3.28e-05    0.00e+00    3.28e-05    3.28e-05
+Cbd:       0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cbs:       0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cgsov:     1.52e-08    1.52e-08    3.17e-08    1.52e-08    1.52e-08
+Cgdov:     1.52e-08    1.52e-08    3.17e-08    1.52e-08    1.52e-08
+Cgbov:     2.00e-12    2.00e-12    5.00e-11    2.00e-12    2.00e-12
+dQgdVgb:   3.18e-01    3.18e-01    2.10e+01    3.18e-01    3.18e-01
+dQgdVdb:  -1.49e-05   -1.46e-05   -8.88e+00   -1.27e-05   -2.02e-04
+dQgdVsb:  -3.03e-01   -3.03e-01   -1.26e+01   -3.03e-01   -3.03e-01
+dQddVgb:  -1.33e-01   -1.33e-01   -1.04e+01   -1.33e-01   -1.34e-01
+dQddVdb:   1.17e-05    1.14e-05    6.96e+00    9.94e-06    1.58e-04
+dQddVsb:   1.76e-01    1.76e-01    6.81e+00    1.76e-01    1.77e-01
+dQbdVgb:  -5.16e-02   -5.16e-02   -1.82e-01   -5.16e-02   -5.14e-02
+dQbdVdb:  -8.42e-06   -8.26e-06   -5.03e+00   -7.18e-06   -1.14e-04
+dQbdVsb:  -4.99e-02   -4.99e-02   -1.03e+00   -4.99e-02   -5.00e-02
+
+Name:        m3          m2          m1
+Model:      cmosp       cmosp       cmosp
+Id:       -9.42e-06   -9.42e-06   -9.42e-06
+Vgs:      -5.59e-01   -5.59e-01   -1.29e+00
+Vds:      -5.59e-01   -1.30e+00   -1.29e+00
+Vbs:       0.00e+00    0.00e+00    0.00e+00
+Vth:      -3.91e-01   -3.91e-01   -3.91e-01
+Vdsat:    -1.38e-01   -1.38e-01   -7.06e-01
+Gm:        1.05e-04    1.05e-04    1.98e-05
+Gds:       2.28e-08    1.16e-09    8.19e-09
+Gmb        3.28e-05    3.28e-05    6.81e-06
+Cbd:       0.00e+00    0.00e+00    0.00e+00
+Cbs:       0.00e+00    0.00e+00    0.00e+00
+Cgsov:     1.52e-08    1.52e-08    6.35e-09
+Cgdov:     1.52e-08    1.52e-08    6.35e-09
+Cgbov:     2.00e-12    2.00e-12    2.00e-11
+dQgdVgb:   3.18e-01    3.18e-01    1.33e+00
+dQgdVdb:  -2.01e-04   -1.27e-05   -1.15e-03
+dQgdVsb:  -3.03e-01   -3.03e-01   -1.32e+00
+dQddVgb:  -1.34e-01   -1.33e-01   -5.62e-01
+dQddVdb:   1.58e-04    9.94e-06    8.98e-04
+dQddVsb:   1.77e-01    1.76e-01    7.43e-01
+dQbdVgb:  -5.14e-02   -5.16e-02   -2.07e-01
+dQbdVdb:  -1.14e-04   -7.18e-06   -6.49e-04
+dQbdVsb:  -5.00e-02   -4.99e-02   -1.62e-01
+
+
+
+Date: Thu Nov 09 19:06:46 2023
+Total elapsed time: 0.298 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 446
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 25
+fillins = 6
+solver = Normal
+Matrix Compiler1: 2.71 KB object code size
+Matrix Compiler2: 2.66 KB object code size  1.0/1.4/[0.5]
+
